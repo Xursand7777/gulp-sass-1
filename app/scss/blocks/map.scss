@@ -1,0 +1,19 @@
+.map{
+  background-color: $white;
+}
+
+.map__title{
+  font-size: 30px;
+  font-weight: 600;
+  color: $black;
+  margin-bottom: 45px;
+  text-align: center;
+  padding-top: 110px;
+  padding-left: 28px;
+
+}
+
+.map__pic{
+  max-width: 100%;
+  display: block;
+}
